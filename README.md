@@ -1,4 +1,2 @@
 # portfolio
-My portfolio website
-
-# Website Is Under Development
+My portfolio website. This includes all information about my skills and social media links.
